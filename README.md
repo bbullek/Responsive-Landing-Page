@@ -3,4 +3,4 @@ Full screen responsive landing page using HTML5/CSS3
 
 -----
 
-![Screenshot of landing page](screenshot.PNG "Description goes here")
+![Screenshot of landing page](screenshot.PNG)
