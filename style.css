@@ -62,3 +62,18 @@ p {
 	margin: 3%;
 	font-family: 'Raleway', sans-serif;
 }
+
+/* Shrink relative sizes on mobile devices */
+@media screen and (max-width: 768px) {
+	.content h1 {
+		font-size: 250%;
+	}
+	.btn {
+		font-size: 110%;
+		padding: 7px 15px;
+	}
+	p {
+		font-size: 100%;
+		line-height: 140%;
+	}
+}
