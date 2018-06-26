@@ -37,3 +37,28 @@ html, body {
 	text-shadow: 1px 1px 5px #666;
 	font-size: 500%;
 }
+
+.btn {
+	background-color: rgba(255, 255, 255, 0.2); /* Opacity underneath btn */
+	font-family: 'Oswald', sans-serif;
+	color: #003B60;
+	font-size: 135%;
+	border: solid #003B60 3px;
+	border-radius: 9px;
+	padding: 10px 20px;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+.btn:hover {
+	color: #F9F3F4;
+	border: solid #F9F3F4 3px;
+}
+
+p {
+	font-size: 80%;
+	line-height: 210%;
+	text-align: justify;
+	margin: 3%;
+	font-family: 'Raleway', sans-serif;
+}
